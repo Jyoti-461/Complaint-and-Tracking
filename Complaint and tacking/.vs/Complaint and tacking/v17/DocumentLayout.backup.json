@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jyant\\Desktop\\ASP Project\\Complaint and tacking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B273C0-634D-42BB-8D46-99D056F91A21}|Complaint and tacking.csproj|C:\\Users\\jyant\\Desktop\\ASP Project\\Complaint and tacking\\submitcomplaint.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E7B273C0-634D-42BB-8D46-99D056F91A21}|Complaint and tacking.csproj|solutionrelative:submitcomplaint.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7B273C0-634D-42BB-8D46-99D056F91A21}|Complaint and tacking.csproj|c:\\users\\jyant\\desktop\\asp project\\complaint and tacking\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E7B273C0-634D-42BB-8D46-99D056F91A21}|Complaint and tacking.csproj|solutionrelative:adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubmitComplaint.aspx",
+              "DocumentMoniker": "C:\\Users\\jyant\\Desktop\\ASP Project\\Complaint and tacking\\SubmitComplaint.aspx",
+              "RelativeDocumentMoniker": "SubmitComplaint.aspx",
+              "ToolTip": "C:\\Users\\jyant\\Desktop\\ASP Project\\Complaint and tacking\\SubmitComplaint.aspx",
+              "RelativeToolTip": "SubmitComplaint.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-19T19:04:13.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\jyant\\Desktop\\ASP Project\\Complaint and tacking\\AdminLogin.aspx",
+              "RelativeDocumentMoniker": "AdminLogin.aspx",
+              "ToolTip": "C:\\Users\\jyant\\Desktop\\ASP Project\\Complaint and tacking\\AdminLogin.aspx",
+              "RelativeToolTip": "AdminLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-01-06T13:52:07.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
